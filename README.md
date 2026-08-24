@@ -60,7 +60,7 @@ python desecure.py --n-samples 5000000
 python fig.py
 ```
 
-This generates all figures for the paper:
+This generates all figures:
 - Accuracy and F1 Score comparison
 - Precision and Recall comparison
 - Encryption latency scaling
